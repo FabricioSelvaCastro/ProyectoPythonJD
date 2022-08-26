@@ -1,5 +1,6 @@
 from io import open
 
+
 #ENCABEZADO DEL PROGRAMA
 
 print()
